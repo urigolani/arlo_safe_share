@@ -1,0 +1,5 @@
+{
+  "arlo_user_email": "XXX@gmail.com",
+  "arlo_password": "XXXXXXX",
+  "excluded_emails": ["mywife@gmail.com", "mySecondaryEmail@gmail.com"] 
+}

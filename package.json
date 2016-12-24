@@ -1,0 +1,15 @@
+{
+  "name": "arlo_safe_share",
+  "version": "1.0.0",
+  "description": "Safely share arlo with friends or family by adding and removing permissions automatically on differnet times of the day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uri Golani",
+  "license": "license.txt",
+  "dependencies": {
+    "async": "^2.1.4",
+    "request": "^2.79.0"
+  }
+}
